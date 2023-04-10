@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd122e2d548c1652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "command line/ripgrep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "command line/find.md",
+                "file": "command line/ripgrep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "command line/find.md",
+                "file": "command line/ripgrep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "command line/find.md"
+                "file": "command line/ripgrep.md"
               }
             }
           }
@@ -207,17 +219,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6325adbd7ffa40b5",
+  "active": "dd122e2d548c1652",
   "lastOpenFiles": [
-    "command line/find and replace text in directory.md",
     "command line/find.md",
+    "command line/find and replace text in directory.md",
+    "command line/find and replace text within a file in place.md",
+    "command line/ripgrep.md",
     "git/stash.md",
     "git/amend.md",
     "git/cherry pick.md",
     "git/clean.md",
     "git/reset.md",
     "git/revert.md",
-    "command line/find and replace text within a file in place.md",
     "2023-04-10.md",
     "Untitled.canvas",
     "git",
