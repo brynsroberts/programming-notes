@@ -3,7 +3,7 @@ To replace text in a full directory using bash, you can use the `find` command t
 Here's an example command that replaces all occurrences of "foo" with "bar" in all `.txt` files in the current directory and all subdirectories:
 
 ```bash
-`find . -type f -name '*.txt' -exec sed -i 's/foo/bar/g' {} +`
+find . -type f -name '*.txt' -exec sed -i 's/foo/bar/g' {} +
 ```
 
 Here's how this command works:
