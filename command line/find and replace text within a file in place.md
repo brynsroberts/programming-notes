@@ -6,6 +6,12 @@ Here is the syntax for using `sed` to find and replace text within a file in pla
 sed -i 's/search_pattern/replace_string/g' file_name
 ```
 
+On mac use the following command:
+
+```bash
+sed -i '' 's/search_pattern/replace_string/g' file_name
+```
+
 Let's break down this command:
 
 -   `sed` is the command we're using to invoke the stream editor.
