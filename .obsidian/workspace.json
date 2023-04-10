@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "git/stash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "074001def2444d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/reset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cf54ce3446b9879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/clean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149b196e8467835b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "command line/find and replace text within a file in place.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "935ed458475f5c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "command line/find and replace text in directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6325adbd7ffa40b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "command line/find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "command line/find and replace text within a file in place.md",
+                "file": "command line/find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "command line/find and replace text within a file in place.md",
+                "file": "command line/find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "command line/find and replace text within a file in place.md"
+                "file": "command line/find.md"
               }
             }
           }
@@ -146,9 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fafdf5a834211dea",
+  "active": "6325adbd7ffa40b5",
   "lastOpenFiles": [
+    "command line/find and replace text in directory.md",
+    "command line/find.md",
+    "git/stash.md",
+    "git/amend.md",
+    "git/cherry pick.md",
+    "git/clean.md",
+    "git/reset.md",
+    "git/revert.md",
     "command line/find and replace text within a file in place.md",
+    "2023-04-10.md",
+    "Untitled.canvas",
+    "git",
     "python/Untitled.md",
     "design patterns",
     "docker",
