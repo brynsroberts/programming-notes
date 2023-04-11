@@ -1,0 +1,1 @@
+Source a ~/.tmux.conf file: tmux source-file ~/.tmux.conf

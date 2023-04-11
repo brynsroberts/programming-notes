@@ -23,8 +23,36 @@
             "id": "5d3aac4ce9761345",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/behavioral design pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63180282ff4d27b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/ripgrep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46fc1dcae1a769fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/find and replace text within a file in place.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -84,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/find and replace text within a file in place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/find and replace text within a file in place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/find and replace text within a file in place.md"
+              }
             }
           }
         ]
@@ -207,11 +239,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d3aac4ce9761345",
+  "active": "46fc1dcae1a769fe",
   "lastOpenFiles": [
-    "design patterns/structural design pattern.md",
-    "design patterns/creational design pattern.md",
+    "linux/pipe vs redirection operator.md",
+    "linux/ripgrep.md",
+    "linux/find and replace text within a file in place.md",
+    "linux/find and replace text in directory.md",
+    "linux/find.md",
+    "linux/Untitled",
+    "tmux/config.md",
+    "linux",
     "design patterns/behavioral design pattern.md",
+    "tmux",
+    "design patterns/creational design pattern.md",
+    "design patterns/structural design pattern.md",
+    "design patterns/abstract factory.md",
     "design patterns/adapter.md",
     "design patterns/builder.md",
     "design patterns/factory.md",
@@ -219,17 +261,12 @@
     "design patterns/observer.md",
     "design patterns/singleton.md",
     "design patterns/strategy.md",
-    "design patterns/abstract factory.md",
-    "command line/find and replace text in directory.md",
     "design patterns/creational/creational.md",
     "design patterns/behavioral",
     "design patterns/structural",
     "design patterns/creational",
-    "command line/find.md",
-    "command line/find and replace text within a file in place.md",
     "git/clean.md",
     "Untitled.canvas",
-    "command line/ripgrep.md",
     "git/stash.md",
     "git/amend.md",
     "git/cherry pick.md",
@@ -240,7 +277,6 @@
     "python/Untitled.md",
     "design patterns",
     "docker",
-    "command line",
-    "python"
+    "command line"
   ]
 }
