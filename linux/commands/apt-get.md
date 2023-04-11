@@ -8,4 +8,4 @@ Here are some commonly used commands with `apt-get`:
 -   `sudo apt-get remove package_name`: Removes a package from the system. Replace "package_name" with the name of the package you want to remove.
 -   `sudo apt-get autoremove`: Removes packages that were automatically installed as dependencies of other packages, but are no longer required.
 -   `sudo apt-get clean`: Deletes the cached package files that are no longer needed.
--   `sudo apt-get dist-upgrade`: Upgrades the system to the latest available version of the distribution, including kernel upgrades and major package updates.
+-   `sudo apt-get dist-upgrade`: Upgrades the system to the latest available version of the distribution, including kernel upgrades and major package updates. 

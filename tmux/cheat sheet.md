@@ -16,6 +16,6 @@
     -   `<C-a> -` Split the current pane horizontally
     -   `<C-a> |` Split the current pane vertically
     -   `<C-a> <direction>` Move to the pane in the specified _direction_. Direction here means arrow keys.
-    -   `<C-a> z` Toggle zoom for the current pane
+    -   `<C-a> z` Toggle zoom for the current pane, aka make full screen
     -   `<C-a> [` Start scrollback. You can then press `<space>` to start a selection and `<enter>` to copy that selection.
     -   `<C-a> <space>` Cycle through pane arrangements.

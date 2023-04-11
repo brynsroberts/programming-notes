@@ -4,223 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc4fc388630535c",
+        "id": "4e2973e99357b936",
         "type": "tabs",
         "children": [
           {
-            "id": "5cec855c533cc43f",
+            "id": "4bbc3b30d9e2dc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design patterns/creational design pattern.md",
+                "file": "design patterns/creational/singleton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d3aac4ce9761345",
+            "id": "b33c3a74dfd483d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design patterns/behavioral design pattern.md",
+                "file": "tmux/cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "63180282ff4d27b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/ripgrep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46fc1dcae1a769fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b04bf396b4e50e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/cut.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615f9fa8d5333af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f6d5ccd3c533cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc89bea5be970ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/misc/pipe vs redirection operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83566998802d078e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1525e710a0c075c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/reset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2290c736124a6c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee81ee6202aad38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mac/homebrew.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff831941d1806582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/apt-get.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9fd7b99846192d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns/builder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9bb3cfaa7bf9a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns/observer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b39897aa93e2b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns/adapter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0620c7f3813391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns/abstract factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1632a664dc48e388",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -286,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/commands/apt-get.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/commands/apt-get.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/commands/apt-get.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -347,44 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff831941d1806582",
+  "active": "75f5a1d1763e86d6",
   "lastOpenFiles": [
-    "mac/homebrew.md",
-    "linux/commands/apt-get.md",
-    "tmux/commands.md",
-    "mac",
-    "git/commands.md",
-    "git/revert.md",
-    "git/reset.md",
-    "git/amend.md",
-    "vim/commands.md",
-    "git/stash.md",
-    "git/clean.md",
-    "git/cherry pick.md",
+    "design patterns/resources.md",
+    "git/commands/cherry pick.md",
+    "git/commands/amend.md",
+    "git/commands",
+    "git/cheat sheet.md",
+    "linux/cheat sheet.md",
+    "tmux/cheat sheet.md",
+    "vim/cheat sheet.md",
+    "design patterns/creational/singleton.md",
+    "design patterns/creational/factory.md",
+    "design patterns/creational/creational design pattern.md",
+    "design patterns/creational/builder.md",
+    "design patterns/creational/abstract factory.md",
+    "design patterns/behavioral/strategy.md",
+    "design patterns/creational",
+    "design patterns/behavioral/observer.md",
+    "design patterns/behavioral/behavioral design pattern.md",
+    "design patterns/structural/facade.md",
+    "design patterns/behavioral",
+    "design patterns/structural/structural design pattern.md",
+    "design patterns/structural/adapter.md",
+    "design patterns/Untitled.md",
+    "design patterns/structural",
+    "linux/commands/ripgrep.md",
+    "linux/misc/permissions.md",
     "linux/misc/pipe vs redirection operator.md",
+    "linux/misc/umask.md",
+    "linux/commands/chmod.md",
+    "linux/misc",
+    "linux/commands/apt-get.md",
+    "mac",
     "vim",
     "linux/misc",
-    "linux/common tasks/find and replace text in directory.md",
-    "linux/commands/ripgrep.md",
     "linux/common tasks",
-    "linux/commands/cut.md",
     "linux/commands",
-    "linux/common tasks/find and replace text within a file in place.md",
-    "linux/commands/uniq.md",
-    "linux/commands/sort.md",
-    "linux/commands/wc.md",
-    "linux/commands/find.md",
-    "tmux/config.md",
-    "linux",
-    "design patterns/behavioral design pattern.md",
-    "tmux",
-    "design patterns/creational design pattern.md",
-    "design patterns/structural design pattern.md",
-    "design patterns/abstract factory.md",
-    "design patterns/adapter.md",
-    "design patterns/behavioral",
-    "design patterns/structural",
-    "design patterns/creational",
     "Untitled.canvas"
   ]
 }
