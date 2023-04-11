@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "5d3aac4ce9761345",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e9fd7b99846192d6",
             "type": "leaf",
             "state": {
@@ -76,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design patterns/abstract factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design patterns/abstract factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "design patterns/abstract factory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,13 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f5a1d1763e86d6",
+  "active": "5d3aac4ce9761345",
   "lastOpenFiles": [
-    "design patterns/adapter.md",
+    "design patterns/structural design pattern.md",
+    "design patterns/creational design pattern.md",
     "design patterns/behavioral design pattern.md",
+    "design patterns/adapter.md",
     "design patterns/builder.md",
     "design patterns/factory.md",
-    "design patterns/creational design pattern.md",
     "design patterns/facade.md",
     "design patterns/observer.md",
     "design patterns/singleton.md",
