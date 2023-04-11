@@ -1,0 +1,20 @@
+-   **Sessions** - a session is an independent workspace with one or more windows
+    -   `tmux` starts a new session.
+    -   `tmux new -s NAME` starts it with that name.
+    -   `tmux ls` lists the current sessions
+    -   Within `tmux` typing `<C-a> d` detaches the current session
+    -   `tmux a` attaches the last session. You can use `-t` flag to specify which
+-   **Windows** - Equivalent to tabs in editors or browsers, they are visually separate parts of the same session
+    -   `<C-a> c` Creates a new window. To close it you can just terminate the shells doing `<C-d>`
+    -   `<C-a> N` Go to the _N_ th window. Note they are numbered
+    -   `<C-a> p` Goes to the previous window
+    -   `<C-b> n` Goes to the next window
+    -   `<C-a> ,` Rename the current window
+    -   `<C-a> w` List current windows
+-   **Panes** - Like vim splits, panes let you have multiple shells in the same visual display.
+    -   `<C-a> -` Split the current pane horizontally
+    -   `<C-a> |` Split the current pane vertically
+    -   `<C-a> <direction>` Move to the pane in the specified _direction_. Direction here means arrow keys.
+    -   `<C-a> z` Toggle zoom for the current pane
+    -   `<C-a> [` Start scrollback. You can then press `<space>` to start a selection and `<enter>` to copy that selection.
+    -   `<C-a> <space>` Cycle through pane arrangements.
