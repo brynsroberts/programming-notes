@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design patterns/singleton.md",
+                "file": "design patterns/creational design pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9fd7b99846192d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/builder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9bb3cfaa7bf9a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/observer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b39897aa93e2b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/adapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0620c7f3813391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/abstract factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design patterns/singleton.md",
+                "file": "design patterns/abstract factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design patterns/singleton.md",
+                "file": "design patterns/abstract factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design patterns/singleton.md"
+                "file": "design patterns/abstract factory.md"
               }
             }
           }
@@ -154,15 +203,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cec855c533cc43f",
+  "active": "75f5a1d1763e86d6",
   "lastOpenFiles": [
-    "design patterns/creational design pattern.md",
+    "design patterns/adapter.md",
+    "design patterns/behavioral design pattern.md",
+    "design patterns/builder.md",
     "design patterns/factory.md",
+    "design patterns/creational design pattern.md",
+    "design patterns/facade.md",
+    "design patterns/observer.md",
+    "design patterns/singleton.md",
+    "design patterns/strategy.md",
     "design patterns/abstract factory.md",
     "command line/find and replace text in directory.md",
-    "design patterns/singleton.md",
-    "design patterns/behavioral design pattern.md",
-    "design patterns/strategy.md",
     "design patterns/creational/creational.md",
     "design patterns/behavioral",
     "design patterns/structural",
