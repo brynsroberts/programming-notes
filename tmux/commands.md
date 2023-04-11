@@ -4,6 +4,7 @@
     -   `tmux ls` lists the current sessions
     -   Within `tmux` typing `<C-a> d` detaches the current session
     -   `tmux a` attaches the last session. You can use `-t` flag to specify which
+    -  `tmux kill-session -t <num or name>` kills the session
 -   **Windows** - Equivalent to tabs in editors or browsers, they are visually separate parts of the same session
     -   `<C-a> c` Creates a new window. To close it you can just terminate the shells doing `<C-d>`
     -   `<C-a> N` Go to the _N_ th window. Note they are numbered

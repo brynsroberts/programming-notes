@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/commands.md",
+                "file": "tmux/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eee81ee6202aad38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mac/homebrew.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/commands.md",
+                "file": "mac/homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/commands.md",
+                "file": "mac/homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/commands.md"
+                "file": "mac/homebrew.md"
               }
             }
           }
@@ -323,17 +335,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2290c736124a6c09",
+  "active": "eee81ee6202aad38",
   "lastOpenFiles": [
+    "tmux/commands.md",
+    "mac/homebrew.md",
+    "mac",
+    "git/commands.md",
     "git/revert.md",
     "git/reset.md",
-    "git/commands.md",
     "git/amend.md",
     "vim/commands.md",
     "git/stash.md",
     "git/clean.md",
     "git/cherry pick.md",
-    "tmux/commands.md",
     "linux/misc/pipe vs redirection operator.md",
     "vim",
     "linux/misc",
@@ -356,11 +370,9 @@
     "design patterns/abstract factory.md",
     "design patterns/adapter.md",
     "design patterns/builder.md",
-    "design patterns/factory.md",
     "design patterns/behavioral",
     "design patterns/structural",
     "design patterns/creational",
-    "Untitled.canvas",
-    "git"
+    "Untitled.canvas"
   ]
 }
