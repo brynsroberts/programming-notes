@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81d1b49ab3995a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/yank entire files contents in vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat sheets/git cheat sheet.md",
+                "file": "knowledge/yank entire files contents in vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat sheets/git cheat sheet.md",
+                "file": "knowledge/yank entire files contents in vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat sheets/git cheat sheet.md"
+                "file": "knowledge/yank entire files contents in vim.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e772054bb08929bf",
+  "active": "81d1b49ab3995a18",
   "lastOpenFiles": [
+    "knowledge/inode.md",
+    "knowledge/yank entire files contents in vim.md",
+    "cheat sheets/git cheat sheet.md",
     "knowledge/estimate the space used by files and directories on a file system.md",
     "knowledge/display information about the processes running on a system.md",
     "linux/misc/permissions.md",
@@ -160,7 +176,6 @@
     "knowledge/tmux config.md",
     "References",
     "cheat sheets/vim cheat sheet.md",
-    "cheat sheets/git cheat sheet.md",
     "git/commands/reset.md",
     "cheat sheets",
     "knowledge",
@@ -177,8 +192,6 @@
     "design patterns/behavioral/strategy.md",
     "design patterns/creational",
     "design patterns/behavioral/observer.md",
-    "design patterns/behavioral/behavioral design pattern.md",
-    "design patterns/structural/facade.md",
     "design patterns/behavioral",
     "design patterns/structural",
     "linux/misc",
