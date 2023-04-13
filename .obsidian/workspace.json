@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/yank entire files contents in vim.md",
+                "file": "knowledge/inode.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/yank entire files contents in vim.md",
+                "file": "knowledge/inode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/yank entire files contents in vim.md",
+                "file": "knowledge/inode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/yank entire files contents in vim.md"
+                "file": "knowledge/inode.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "81d1b49ab3995a18",
   "lastOpenFiles": [
-    "knowledge/inode.md",
+    "knowledge/homebrew.md",
     "knowledge/yank entire files contents in vim.md",
+    "knowledge/inode.md",
     "cheat sheets/git cheat sheet.md",
     "knowledge/estimate the space used by files and directories on a file system.md",
     "knowledge/display information about the processes running on a system.md",
@@ -172,7 +173,6 @@
     "knowledge/pipe vs redirection operator.md",
     "knowledge/find and replace text within a file in place.md",
     "knowledge/find and replace text in directory.md",
-    "knowledge/homebrew.md",
     "knowledge/tmux config.md",
     "References",
     "cheat sheets/vim cheat sheet.md",

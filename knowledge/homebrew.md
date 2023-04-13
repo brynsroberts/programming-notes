@@ -1,4 +1,4 @@
-Homebrew (often referred to as "brew") is a popular package manager for macOS that makes it easy to install, manage, and update command-line tools and software packages on your Mac.
+Homebrew (often referred to as "brew") is a popular package manager for macOS that makes it easy to install, manage, and update command-line tools and software packages on your [[Mac]].
 
 Here are some common Homebrew commands that you might find useful:
 
