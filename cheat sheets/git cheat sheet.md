@@ -13,6 +13,8 @@
 -   `git diff <revision> <filename>`: shows differences in a file between snapshots
 -   `git diff --staged`: show changes you made for files in the staging area
 -   `git checkout <revision>`: updates HEAD and current branch
+-   `git restore .`: discard local changes in all files
+-   `git restore <filename>`: discard local changes in a specific file
 
 ## Branching and merging
 

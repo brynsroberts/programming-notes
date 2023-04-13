@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2973e99357b936",
+        "id": "07ccbde860b8ae10",
         "type": "tabs",
         "children": [
           {
-            "id": "b33c3a74dfd483d2",
+            "id": "e772054bb08929bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat sheets/git cheat sheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheat sheets/git cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cheat sheets/git cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cheat sheets/git cheat sheet.md"
+              }
             }
           }
         ]
@@ -138,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f5a1d1763e86d6",
+  "active": "e772054bb08929bf",
   "lastOpenFiles": [
+    "knowledge/estimate the space used by files and directories on a file system.md",
+    "knowledge/display information about the processes running on a system.md",
+    "linux/misc/permissions.md",
     "cheat sheets/tmux cheat sheet.md",
     "linux/misc/umask.md",
     "knowledge/pipe vs redirection operator.md",
-    "linux/misc/permissions.md",
     "knowledge/find and replace text within a file in place.md",
     "knowledge/find and replace text in directory.md",
     "knowledge/homebrew.md",
@@ -170,8 +180,6 @@
     "design patterns/behavioral/behavioral design pattern.md",
     "design patterns/structural/facade.md",
     "design patterns/behavioral",
-    "design patterns/structural/structural design pattern.md",
-    "design patterns/structural/adapter.md",
     "design patterns/structural",
     "linux/misc",
     "mac",
