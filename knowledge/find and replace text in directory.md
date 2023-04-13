@@ -1,4 +1,4 @@
-To replace text in a full directory using bash, you can use the `find` command to locate all the files you want to modify, and then use a command like `sed` to perform the replacement.
+To replace text in a full directory using [[bash]], you can use the `find` command to locate all the files you want to modify, and then use a command like `sed` to perform the replacement.
 
 Here's an example command that replaces all occurrences of "foo" with "bar" in all `.txt` files in the current directory and all subdirectories:
 

@@ -1,4 +1,4 @@
-To find and replace text within a file in place, meaning directly modifying the original file without creating a new file, you can use the `-i` flag with the `sed` command in Unix-based systems, such as Linux or macOS. The `-i` flag stands for in-place editing.
+To find and replace text within a file in place, meaning directly modifying the original file without creating a new file, you can use the `-i` flag with the `sed` command in [[Unix]]-based systems, such as Linux or macOS. The `-i` flag stands for in-place editing.
 
 Here is the syntax for using [[sed]] to find and replace text within a file in place:
 

@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bbc3b30d9e2dc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns/creational/singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b33c3a74dfd483d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux/cheat sheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,15 +140,26 @@
   },
   "active": "75f5a1d1763e86d6",
   "lastOpenFiles": [
+    "cheat sheets/tmux cheat sheet.md",
+    "linux/misc/umask.md",
+    "knowledge/pipe vs redirection operator.md",
+    "linux/misc/permissions.md",
+    "knowledge/find and replace text within a file in place.md",
+    "knowledge/find and replace text in directory.md",
+    "knowledge/homebrew.md",
+    "knowledge/tmux config.md",
+    "References",
+    "cheat sheets/vim cheat sheet.md",
+    "cheat sheets/git cheat sheet.md",
+    "git/commands/reset.md",
+    "cheat sheets",
+    "knowledge",
+    "design patterns/creational/singleton.md",
     "design patterns/resources.md",
     "git/commands/cherry pick.md",
     "git/commands/amend.md",
     "git/commands",
-    "git/cheat sheet.md",
     "linux/cheat sheet.md",
-    "tmux/cheat sheet.md",
-    "vim/cheat sheet.md",
-    "design patterns/creational/singleton.md",
     "design patterns/creational/factory.md",
     "design patterns/creational/creational design pattern.md",
     "design patterns/creational/builder.md",
@@ -178,20 +172,10 @@
     "design patterns/behavioral",
     "design patterns/structural/structural design pattern.md",
     "design patterns/structural/adapter.md",
-    "design patterns/Untitled.md",
     "design patterns/structural",
-    "linux/commands/ripgrep.md",
-    "linux/misc/permissions.md",
-    "linux/misc/pipe vs redirection operator.md",
-    "linux/misc/umask.md",
-    "linux/commands/chmod.md",
     "linux/misc",
-    "linux/commands/apt-get.md",
     "mac",
     "vim",
-    "linux/misc",
-    "linux/common tasks",
-    "linux/commands",
     "Untitled.canvas"
   ]
 }

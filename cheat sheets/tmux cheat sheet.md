@@ -12,6 +12,7 @@
     -   `<C-b> n` Goes to the next window
     -   `<C-a> ,` Rename the current window
     -   `<C-a> w` List current windows
+    - `<C-a> &` Kill the current window
 -   **Panes** - Like vim splits, panes let you have multiple shells in the same visual display.
     -   `<C-a> -` Split the current pane horizontally
     -   `<C-a> |` Split the current pane vertically

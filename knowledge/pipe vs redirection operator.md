@@ -1,4 +1,4 @@
-In Bash, the vertical bar symbol "|" and the greater-than symbol ">" have different meanings and functions.
+In [[Bash]], the vertical bar symbol "|" and the greater-than symbol ">" have different meanings and functions.
 
 The "|" symbol is known as a [[pipe]], and it is used to connect the output of one command to the input of another command. This allows you to create a chain of commands, where the output of one command is used as the input of the next command. For example, the following command will list all the files in the current directory and then sort them in reverse order by file size:
 

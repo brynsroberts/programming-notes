@@ -11,6 +11,7 @@
 -   `git log --all --graph --decorate`: visualizes history as a DAG
 -   `git diff <filename>`: show changes you made relative to the staging area
 -   `git diff <revision> <filename>`: shows differences in a file between snapshots
+-   `git diff --staged`: show changes you made for files in the staging area
 -   `git checkout <revision>`: updates HEAD and current branch
 
 ## Branching and merging
