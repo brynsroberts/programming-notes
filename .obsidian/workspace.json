@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ff17d8ab5e16ec",
+        "id": "58cce5a080791c95",
         "type": "tabs",
         "children": [
           {
-            "id": "ef308926a1af42a2",
+            "id": "3d1169129f12b55c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/display information about the processes running on a system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "376e01a9ac787e54",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,26 +138,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "376e01a9ac787e54",
+  "active": "3d1169129f12b55c",
   "lastOpenFiles": [
-    "cheat sheets/tmux cheat sheet.md",
-    "knowledge/singleton.md",
-    "knowledge/structural.md",
-    "knowledge/decorator.md",
-    "knowledge/design pattern.md",
-    "knowledge/display information about the processes running on a system.md",
-    "cheat sheets/git cheat sheet.md",
-    "cheat sheets/vim cheat sheet.md",
+    "knowledge/yank entire files contents in vim.md",
+    "knowledge/tmux config.md",
+    "knowledge/template design pattern.md",
+    "knowledge/singleton design pattern.md",
+    "knowledge/pipe vs redirection operator.md",
     "knowledge/inode.md",
     "knowledge/homebrew.md",
-    "knowledge/yank entire files contents in vim.md",
-    "knowledge/estimate the space used by files and directories on a file system.md",
-    "linux/misc/permissions.md",
-    "linux/misc/umask.md",
-    "knowledge/pipe vs redirection operator.md",
     "knowledge/find and replace text within a file in place.md",
     "knowledge/find and replace text in directory.md",
-    "knowledge/tmux config.md",
+    "knowledge/estimate the space used by files and directories on a file system.md",
+    "knowledge/display information about the processes running on a system.md",
+    "knowledge/design pattern.md",
+    "knowledge/decorator design pattern.md",
+    "knowledge/structural.md",
+    "creational design pattern.md",
+    "structural design patterns.md",
+    "cheat sheets/tmux cheat sheet.md",
+    "cheat sheets/git cheat sheet.md",
+    "cheat sheets/vim cheat sheet.md",
+    "linux/misc/permissions.md",
+    "linux/misc/umask.md",
     "References",
     "git/commands/reset.md",
     "cheat sheets",
@@ -180,9 +170,6 @@
     "git/commands/cherry pick.md",
     "git/commands/amend.md",
     "git/commands",
-    "linux/cheat sheet.md",
-    "design patterns/creational/factory.md",
-    "design patterns/creational/creational design pattern.md",
     "design patterns/creational",
     "design patterns/behavioral",
     "design patterns/structural",
