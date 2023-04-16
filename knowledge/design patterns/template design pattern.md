@@ -1,4 +1,4 @@
-The Template [[Design Pattern]] is a [[behavioral design pattern]] that defines the basic steps to execute a certain algorithm, while allowing subclasses to provide their own implementation for some of the steps. In Python, you can implement the Template Design Pattern using the following steps:
+The Template [[design pattern]] is a [[behavioral design pattern]] that defines the basic steps to execute a certain algorithm, while allowing subclasses to provide their own implementation for some of the steps. In Python, you can implement the Template Design Pattern using the following steps:
 
 1.  Create an abstract base class that defines the basic steps of the algorithm. This class should declare abstract methods that will be implemented by its subclasses.
 
