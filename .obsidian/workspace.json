@@ -11,11 +11,76 @@
             "id": "3d1169129f12b55c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat sheets/tmux cheat sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab363c570a08cfe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/linux/follow along with end of file that is being updated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80972225deec6391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/general/reverse proxy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ba440a8a894befe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/general/forward proxy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c84dcd00de0c87d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/general/apache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a7543ac39316e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/general/reverse proxy apache server.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowledge/general/reverse proxy apache server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowledge/general/reverse proxy apache server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "knowledge/general/reverse proxy apache server.md"
+              }
             }
           }
         ]
@@ -138,44 +207,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1169129f12b55c",
+  "active": "45a7543ac39316e3",
   "lastOpenFiles": [
+    "knowledge/general/apache.md",
+    "knowledge/general/reverse proxy apache server.md",
+    "knowledge/general/forward proxy.md",
+    "knowledge/general/reverse proxy.md",
+    "knowledge/linux/follow along with end of file that is being updated.md",
+    "knowledge/general",
+    "cheat sheets/tmux cheat sheet.md",
+    "knowledge/linux/reboot a linux VM.md",
+    "knowledge/vim/yank entire files contents in vim.md",
+    "knowledge/vim",
+    "knowledge/tmux/tmux config.md",
+    "knowledge/tmux",
+    "knowledge/mac/homebrew.md",
+    "knowledge/mac",
+    "knowledge/linux/pipe vs redirection operator.md",
+    "knowledge/linux/inode.md",
+    "knowledge/linux/find and replace text within a file in place.md",
+    "knowledge/linux/find and replace text in directory.md",
+    "knowledge/linux/estimate the space used by files and directories on a file system.md",
+    "knowledge/linux/display information about the processes running on a system.md",
+    "knowledge/linux",
+    "knowledge/design patterns/template design pattern.md",
+    "knowledge/design patterns/singleton design pattern.md",
+    "knowledge/design patterns/design pattern.md",
+    "knowledge/design patterns/decorator design pattern.md",
+    "knowledge/design patterns",
     "knowledge/yank entire files contents in vim.md",
     "knowledge/tmux config.md",
     "knowledge/template design pattern.md",
     "knowledge/singleton design pattern.md",
     "knowledge/pipe vs redirection operator.md",
     "knowledge/inode.md",
-    "knowledge/homebrew.md",
-    "knowledge/find and replace text within a file in place.md",
-    "knowledge/find and replace text in directory.md",
-    "knowledge/estimate the space used by files and directories on a file system.md",
-    "knowledge/display information about the processes running on a system.md",
-    "knowledge/design pattern.md",
-    "knowledge/decorator design pattern.md",
-    "knowledge/structural.md",
-    "creational design pattern.md",
-    "structural design patterns.md",
-    "cheat sheets/tmux cheat sheet.md",
-    "cheat sheets/git cheat sheet.md",
-    "cheat sheets/vim cheat sheet.md",
-    "linux/misc/permissions.md",
-    "linux/misc/umask.md",
     "References",
-    "git/commands/reset.md",
     "cheat sheets",
     "knowledge",
-    "design patterns/creational/singleton.md",
-    "design patterns/resources.md",
-    "git/commands/cherry pick.md",
-    "git/commands/amend.md",
     "git/commands",
-    "design patterns/creational",
-    "design patterns/behavioral",
-    "design patterns/structural",
-    "linux/misc",
-    "mac",
-    "vim",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,5 @@
+A reverse proxy is a server that sits between internet servers and client devices. When a client device sends a request to a server behind a reverse proxy, the request is first sent to the reverse proxy server. The reverse proxy server then forwards the request to the destination server on behalf of the client. The client only sees the IP address of the reverse proxy server and not the destination server's IP address.
+
+Reverse proxies are commonly used to load balance traffic across multiple servers, provide SSL encryption, and protect servers from direct exposure to the internet. By routing incoming requests through a reverse proxy, server administrators can improve server performance, reduce the risk of attack, and simplify the process of managing multiple servers. Reverse proxies are also often used in content delivery networks (CDNs) to cache and serve static content from edge servers closer to end users, improving performance and reducing latency.
+
+Overall, reverse proxies are a powerful tool for improving server performance, security, and scalability in complex web architectures.
