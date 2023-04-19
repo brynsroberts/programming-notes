@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "58cce5a080791c95",
+        "id": "3d182a00d066d602",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1169129f12b55c",
+            "id": "4da94e437bfa491d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat sheets/tmux cheat sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab363c570a08cfe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/linux/follow along with end of file that is being updated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80972225deec6391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/general/reverse proxy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ba440a8a894befe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/general/forward proxy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84dcd00de0c87d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/general/apache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45a7543ac39316e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/general/apache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "912035396fd9267b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/docker/override file.md",
+                "file": "knowledge/python/how to use the contextmanager decorator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/docker/override file.md",
+                "file": "knowledge/python/how to use the contextmanager decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/docker/override file.md",
+                "file": "knowledge/python/how to use the contextmanager decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/docker/override file.md"
+                "file": "knowledge/python/how to use the contextmanager decorator.md"
               }
             }
           }
@@ -219,16 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "912035396fd9267b",
+  "active": "4da94e437bfa491d",
   "lastOpenFiles": [
+    "knowledge/python/implement an iterator.md",
+    "knowledge/design patterns/template.md",
+    "knowledge/design patterns/singleton.md",
+    "knowledge/design patterns/decorator.md",
+    "knowledge/design patterns/adapter.md",
+    "knowledge/python/how to use the contextmanager decorator.md",
+    "generator function.md",
     "cheat sheets/tmux cheat sheet.md",
-    "knowledge/docker/override file.md",
-    "knowledge/docker",
-    "knowledge/general/forward proxy.md",
-    "knowledge/general/reverse proxy.md",
-    "knowledge/general/reverse proxy apache server.md",
-    "knowledge/general/apache.md",
     "knowledge/linux/follow along with end of file that is being updated.md",
+    "knowledge/general/reverse proxy.md",
+    "knowledge/general/forward proxy.md",
+    "knowledge/general/apache.md",
+    "knowledge/docker/override file.md",
+    "knowledge/python",
+    "knowledge/design patterns/design pattern.md",
+    "knowledge/docker",
+    "knowledge/general/reverse proxy apache server.md",
     "knowledge/general",
     "knowledge/linux/reboot a linux VM.md",
     "knowledge/vim/yank entire files contents in vim.md",
@@ -244,19 +180,10 @@
     "knowledge/linux/estimate the space used by files and directories on a file system.md",
     "knowledge/linux/display information about the processes running on a system.md",
     "knowledge/linux",
-    "knowledge/design patterns/template design pattern.md",
-    "knowledge/design patterns/singleton design pattern.md",
-    "knowledge/design patterns/design pattern.md",
-    "knowledge/design patterns/decorator design pattern.md",
     "knowledge/design patterns",
     "knowledge/yank entire files contents in vim.md",
-    "knowledge/tmux config.md",
-    "knowledge/template design pattern.md",
-    "knowledge/singleton design pattern.md",
-    "knowledge/pipe vs redirection operator.md",
     "References",
     "cheat sheets",
-    "knowledge",
     "Untitled.canvas"
   ]
 }

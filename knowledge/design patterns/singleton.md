@@ -26,7 +26,7 @@ print(a.arg)  # "instance 1"
 print(b.arg)  # "instance 1"
 ```
 
-In this implementation, the `singleton` function is a [[decorator design pattern]] that takes a class as an argument, and returns a function that will create and return a single instance of the class. The `instances` dictionary is used to store the single instance of each class.
+In this implementation, the `singleton` function is a [[decorator]] that takes a class as an argument, and returns a function that will create and return a single instance of the class. The `instances` dictionary is used to store the single instance of each class.
 
 When the decorator is applied to a class, it replaces the original class definition with the `get_instance` function, which checks if an instance of the class has already been created. If not, it creates a new instance and stores it in the `instances` dictionary. If an instance already exists, it returns that instance.
 
