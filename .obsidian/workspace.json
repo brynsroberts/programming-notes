@@ -42,9 +42,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d76d98504e320029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/design patterns/template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a83c3850b90970e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/design patterns/builder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de5471c421a1d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/design patterns/fluent builder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37f08951b0acad10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/design patterns/difference between the builder and fluent builder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20105085f2904698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/design patterns/dependency injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa97f8195adef737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/system design/cache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/docker/volumes.md",
+                "file": "knowledge/system design/cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/docker/volumes.md",
+                "file": "knowledge/system design/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/docker/volumes.md"
+                "file": "knowledge/system design/cache.md"
               }
             }
           }
@@ -171,18 +243,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ec8c051eede8ea2",
+  "active": "aa97f8195adef737",
   "lastOpenFiles": [
-    "knowledge/docker/remove volumes with down.md",
+    "knowledge/design patterns/dependency injection.md",
+    "knowledge/system design/cache.md",
+    "knowledge/design patterns/difference between the builder and fluent builder.md",
+    "knowledge/design patterns/design pattern.md",
+    "knowledge/design patterns/decorator.md",
+    "knowledge/design patterns/builder.md",
+    "knowledge/design patterns/fluent builder.md",
+    "knowledge/design patterns/Untitled",
+    "knowledge/design patterns/template.md",
+    "knowledge/design patterns/singleton.md",
+    "knowledge/system design/load balancing.md",
     "knowledge/docker/volumes.md",
+    "knowledge/system design",
+    "knowledge/docker/remove volumes with down.md",
     "knowledge/docker/override file.md",
     "generator function.md",
     "knowledge/python/how to use the contextmanager decorator.md",
-    "knowledge/Untitled",
     "knowledge/python/implement an iterator.md",
-    "knowledge/design patterns/template.md",
-    "knowledge/design patterns/singleton.md",
-    "knowledge/design patterns/decorator.md",
     "knowledge/design patterns/adapter.md",
     "cheat sheets/tmux cheat sheet.md",
     "knowledge/linux/follow along with end of file that is being updated.md",
@@ -190,7 +270,6 @@
     "knowledge/general/forward proxy.md",
     "knowledge/general/apache.md",
     "knowledge/python",
-    "knowledge/design patterns/design pattern.md",
     "knowledge/docker",
     "knowledge/general/reverse proxy apache server.md",
     "knowledge/general",
@@ -199,16 +278,9 @@
     "knowledge/vim",
     "knowledge/tmux/tmux config.md",
     "knowledge/tmux",
-    "knowledge/mac/homebrew.md",
     "knowledge/mac",
-    "knowledge/linux/pipe vs redirection operator.md",
-    "knowledge/linux/inode.md",
-    "knowledge/linux/find and replace text within a file in place.md",
-    "knowledge/linux/find and replace text in directory.md",
-    "knowledge/linux/estimate the space used by files and directories on a file system.md",
     "knowledge/linux",
     "knowledge/design patterns",
-    "References",
     "Untitled.canvas"
   ]
 }

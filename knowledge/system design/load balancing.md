@@ -1,0 +1,5 @@
+Load balancing is the process of distributing network traffic across multiple servers or resources to ensure that no single server or resource becomes overwhelmed with requests. The primary goal of load balancing is to optimize resource usage, maximize throughput, minimize response time, and avoid downtime or service interruption caused by overloaded servers.
+
+Load balancing can be achieved using various techniques such as round-robin, weighted round-robin, IP hash, and least connections. A load balancer acts as a reverse proxy, receiving incoming requests from clients and forwarding them to the most appropriate server based on a set of predefined rules.
+
+Load balancing is commonly used in web applications, database clusters, and other distributed systems to improve performance, increase reliability, and provide scalability. By distributing the workload among multiple resources, load balancing can help to ensure that the system can handle a larger volume of requests, while also improving fault tolerance and reducing the risk of service disruption.
