@@ -1,0 +1,7 @@
+The [[Factory]] pattern and [[Abstract Factory]] pattern are both [[creational]] design patterns that provide a way to create objects without exposing the creation logic to the client. However, there are some key differences between the two patterns.
+
+The Factory pattern defines an interface for creating objects, but leaves the choice of the actual object to be created to the subclasses or derived classes. In other words, the client code interacts only with the factory interface and is not concerned with how the objects are created. This pattern is useful when we want to create different objects that implement a common interface, without the client code having to know the concrete class of the objects.
+
+The Abstract Factory pattern takes this concept one step further by providing an interface for creating families of related or dependent objects, without specifying their concrete classes. This means that we can create a family of objects that work together, such as a set of GUI components that have a consistent look and feel. The client code uses an abstract factory interface to create the objects, and the factory returns concrete objects that are part of the same family.
+
+In summary, the Factory pattern is used to create individual objects, while the Abstract Factory pattern is used to create families of related or dependent objects. The Factory pattern creates a single object, whereas the Abstract Factory pattern creates a family of objects that are designed to work together.
