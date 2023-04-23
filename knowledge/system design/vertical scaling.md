@@ -1,0 +1,7 @@
+Vertical scaling, also known as scaling up, is a method of increasing the resources available to a single server or application by adding more CPU, RAM, storage, or other resources to the existing hardware. This is usually achieved by upgrading or replacing the existing hardware components with higher capacity ones.
+
+Vertical scaling is often used when an application or server has outgrown its existing resources, and additional resources are needed to handle increased demand or workloads. By increasing the resources available to the server, it is possible to handle more users, process more data, and handle more complex tasks.
+
+One advantage of vertical scaling is that it can be relatively simple and quick to implement, as it involves adding or upgrading hardware components. It can also be less disruptive to the existing system, as the application or server can continue to run on the same hardware.
+
+However, there are also some limitations to vertical scaling. Eventually, the capacity of the hardware will be reached, and further upgrades will no longer be possible. Additionally, vertical scaling can be more expensive in the long run compared to horizontal scaling, which involves adding more servers instead of upgrading existing hardware.
