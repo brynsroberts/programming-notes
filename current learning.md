@@ -1,5 +1,5 @@
 - System Design Primer https://github.com/donnemartin/system-design-primer
-	- [ ] scalability lecture at harvad https://www.youtube.com/watch?v=-W9F__D3oY4 @24:00
+	- [x] scalability lecture at harvad https://www.youtube.com/watch?v=-W9F__D3oY4 @24:00 ✅ 2023-04-26
 
 - Linux Upskill Challenge https://github.com/livialima/linuxupskillchallenge
 	- [x] 0 ✅ 2023-04-23
@@ -8,8 +8,8 @@
 	- [x] 3 ✅ 2023-04-23
 	- [x] 4 ✅ 2023-04-23
 	- [x] 5 ✅ 2023-04-23
-	- [ ] 6
-	- [ ] 7
+	- [x] 6 ✅ 2023-04-24
+	- [x] 7 ✅ 2023-04-26
 	- [ ] 8
 	- [ ] 9
 	- [ ] 10
@@ -23,3 +23,7 @@
 	- [ ] 18
 	- [ ] 19
 	- [ ] 90
+- [ ] take class https://web.stanford.edu/class/cs253/
+	- [ ] lecture 1
+		- [x] watch https://www.youtube.com/watch?v=5JJrJGZ_LjM&list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu- ✅ 2023-04-23
+		- [ ] reading 
