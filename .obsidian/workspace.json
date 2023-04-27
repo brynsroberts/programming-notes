@@ -148,6 +148,8 @@
   },
   "active": "ac4b6165afaec6e3",
   "lastOpenFiles": [
+    "knowledge/web security/url parts.md",
+    "knowledge/web security",
     "todo.md",
     "current learning.md",
     "generator function.md",
@@ -173,7 +175,6 @@
     "knowledge/system design/vps.md",
     "knowledge/system design/horizontal scaling.md",
     "knowledge/design patterns/facade.md",
-    "knowledge/linux/use ssh with public key.md",
     "knowledge/design patterns/Untitled",
     "knowledge/system design",
     "knowledge/python",
@@ -183,7 +184,6 @@
     "knowledge/tmux",
     "knowledge/mac",
     "knowledge/linux",
-    "knowledge/design patterns",
     "Untitled.canvas"
   ]
 }
