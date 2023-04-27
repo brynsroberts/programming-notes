@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e48f623bc3140455",
+        "id": "73c167767ae32c02",
         "type": "tabs",
         "children": [
           {
-            "id": "55be45767e2e974b",
+            "id": "ac4b6165afaec6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/design patterns/factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ab5677b6ae8d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/design patterns/abstract factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258aff21e9e5b752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/design patterns/singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a535f9f274bf80c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/design patterns/fluent builder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c2ef752706e951e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/design patterns/strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3681c1c561522b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/design patterns/facade.md",
+                "file": "current learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/design patterns/facade.md",
+                "file": "current learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/design patterns/facade.md",
+                "file": "current learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/design patterns/facade.md"
+                "file": "current learning.md"
               }
             }
           }
@@ -207,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d3681c1c561522b",
+  "active": "ac4b6165afaec6e3",
   "lastOpenFiles": [
-    "knowledge/design patterns/strategy.md",
-    "knowledge/design patterns/facade.md",
-    "knowledge/design patterns/fluent builder.md",
-    "knowledge/design patterns/factory.md",
-    "knowledge/design patterns/observer.md",
-    "knowledge/design patterns/singleton.md",
-    "knowledge/design patterns/builder.md",
-    "knowledge/design patterns/adapter.md",
-    "knowledge/design patterns/difference between the builder and fluent builder.md",
-    "knowledge/design patterns/difference between factory and abstract factory.md",
-    "knowledge/design patterns/abstract factory.md",
-    "knowledge/docker/override file.md",
-    "knowledge/docker/volumes.md",
-    "knowledge/design patterns/template.md",
-    "knowledge/design patterns/dependency injection.md",
-    "knowledge/system design/cache.md",
-    "knowledge/design patterns/design pattern.md",
-    "knowledge/design patterns/decorator.md",
-    "knowledge/design patterns/Untitled",
-    "knowledge/system design/load balancing.md",
-    "knowledge/system design",
-    "knowledge/docker/remove volumes with down.md",
+    "todo.md",
+    "current learning.md",
     "generator function.md",
-    "knowledge/python/how to use the contextmanager decorator.md",
-    "knowledge/python/implement an iterator.md",
     "cheat sheets/tmux cheat sheet.md",
-    "knowledge/linux/follow along with end of file that is being updated.md",
-    "knowledge/general/reverse proxy.md",
+    "cheat sheets/vim cheat sheet.md",
+    "cheat sheets/git cheat sheet.md",
+    "knowledge/tmux/tmux config.md",
+    "knowledge/python/Untitled.md",
+    "knowledge/design patterns/factory.md",
+    "knowledge/design patterns/abstract factory.md",
+    "knowledge/design patterns/singleton.md",
+    "knowledge/design patterns/fluent builder.md",
+    "knowledge/design patterns/strategy.md",
+    "knowledge/vim/yank entire files contents in vim.md",
+    "knowledge/system design/LRU.md",
+    "knowledge/system design/round-robin.md",
+    "knowledge/system design/stateless web tier.md",
+    "knowledge/system design/vertical scaling.md",
+    "knowledge/system design/public vs private IP address.md",
+    "knowledge/system design/RAID.md",
+    "knowledge/system design/load balancing.md",
+    "knowledge/system design/DNS.md",
+    "knowledge/system design/vps.md",
+    "knowledge/system design/horizontal scaling.md",
+    "knowledge/design patterns/facade.md",
+    "knowledge/linux/use ssh with public key.md",
+    "knowledge/design patterns/Untitled",
+    "knowledge/system design",
     "knowledge/python",
     "knowledge/docker",
     "knowledge/general",

@@ -1,0 +1,7 @@
+Round-robin [[load balancing]] is a technique used in computer networks to distribute incoming network traffic across multiple servers or nodes in a cluster. In this technique, incoming requests are assigned to the next available server in a circular order, hence the name "round-robin".
+
+The idea behind round-robin load balancing is to distribute the workload evenly among the servers in the cluster, so that no server is overwhelmed while others remain idle. By distributing the workload, round-robin load balancing can help increase the overall performance and availability of the system.
+
+The round-robin load balancing technique can be implemented in different ways, depending on the specific requirements of the system. For example, it can be implemented at the DNS level, where the DNS server resolves the domain name to multiple IP addresses in a round-robin fashion. Alternatively, it can be implemented at the application level, where the load balancer sits between the clients and the servers and routes the requests based on the round-robin algorithm.
+
+One of the main advantages of round-robin load balancing is its simplicity and ease of implementation. However, it may not be the most efficient load balancing technique in all cases, as it does not take into account the current workload or availability of the servers. Other load balancing techniques, such as weighted round-robin or least connections, may be more suitable for systems with varying server capacity or workload.

@@ -1,5 +1,9 @@
 - System Design Primer https://github.com/donnemartin/system-design-primer
-	- [ ] scalability lecture at harvad https://www.youtube.com/watch?v=-W9F__D3oY4 @24:00
+	- [ ] scalability lecture at harvad https://www.youtube.com/watch?v=-W9F__D3oY4 @01:13
+- take class https://web.stanford.edu/class/cs253/
+	- lecture 1
+		- [x] watch lecture
+		- [ ] reading
 
 - Linux Upskill Challenge https://github.com/livialima/linuxupskillchallenge
 	- [x] 0 ✅ 2023-04-23
