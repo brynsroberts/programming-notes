@@ -1,5 +1,6 @@
 - System Design Primer https://github.com/donnemartin/system-design-primer
 	- [x] scalability lecture at harvad https://www.youtube.com/watch?v=-W9F__D3oY4 @24:00 ✅ 2023-04-26
+	- [x] read scaleability articles https://web.archive.org/web/20221030091841/http://www.lecloud.net/tagged/scalability/chrono
 
 - Linux Upskill Challenge https://github.com/livialima/linuxupskillchallenge
 	- [x] 0 ✅ 2023-04-23
