@@ -1,3 +1,0 @@
-A design pattern is a general, reusable solution to a common software design problem. Design patterns provide a way to organize and structure code to address specific challenges and promote good software design practices.
-
-Design patterns were first introduced in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by the "Gang of Four" (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides). The book identifies 23 design patterns, organized into three categories: [[creational design patterns]], [[structural design patterns]], and [[behavioral design patterns]].

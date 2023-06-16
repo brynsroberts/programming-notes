@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current learning.md",
+                "file": "topics/Entity–attribute–value model.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f7ec04fa620525a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "current learning.md",
+                "file": "topics/Entity–attribute–value model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "current learning.md",
+                "file": "topics/Entity–attribute–value model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "current learning.md"
+                "file": "topics/Entity–attribute–value model.md"
               }
             }
           }
@@ -148,15 +156,23 @@
   },
   "active": "ac4b6165afaec6e3",
   "lastOpenFiles": [
-    "cheat sheets/tmux cheat sheet.md",
+    "topics/TIL.md",
+    "topics/Entity–attribute–value model.md",
+    "topics/Robustness Principle.md",
+    "knowledge/design patterns/builder.md",
+    "knowledge/tmux/tmux config.md",
+    "knowledge/docker/volumes.md",
+    "topics",
+    "todo.md",
     "current learning.md",
+    "knowledge/docker/remove volumes with down.md",
+    "knowledge/docker/override file.md",
+    "cheat sheets/tmux cheat sheet.md",
+    "generator function.md",
     "knowledge/web security/url parts.md",
     "knowledge/web security",
-    "todo.md",
-    "generator function.md",
     "cheat sheets/vim cheat sheet.md",
     "cheat sheets/git cheat sheet.md",
-    "knowledge/tmux/tmux config.md",
     "knowledge/python/Untitled.md",
     "knowledge/design patterns/factory.md",
     "knowledge/design patterns/abstract factory.md",
@@ -168,13 +184,6 @@
     "knowledge/system design/round-robin.md",
     "knowledge/system design/stateless web tier.md",
     "knowledge/system design/vertical scaling.md",
-    "knowledge/system design/public vs private IP address.md",
-    "knowledge/system design/RAID.md",
-    "knowledge/system design/load balancing.md",
-    "knowledge/system design/DNS.md",
-    "knowledge/system design/vps.md",
-    "knowledge/system design/horizontal scaling.md",
-    "knowledge/design patterns/facade.md",
     "knowledge/design patterns/Untitled",
     "knowledge/system design",
     "knowledge/python",
@@ -183,7 +192,6 @@
     "knowledge/vim",
     "knowledge/tmux",
     "knowledge/mac",
-    "knowledge/linux",
     "Untitled.canvas"
   ]
 }

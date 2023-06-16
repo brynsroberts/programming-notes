@@ -1,7 +1,0 @@
-LRU stands for Least Recently Used and it is a popular algorithm used for caching. The LRU algorithm is used to decide which items to evict or remove from a cache when the cache has reached its maximum capacity and needs to make room for new items.
-
-In an LRU [[cache]], each item that is accessed is moved to the front of the cache, and the items that are not accessed frequently are moved towards the back. When the cache reaches its maximum capacity, the item at the back of the cache (the least recently used item) is evicted to make room for the new item.
-
-The LRU algorithm is based on the principle of temporal locality, which states that items that have been accessed recently are more likely to be accessed again in the near future. By keeping the most recently accessed items in the cache, the LRU algorithm can improve cache hit rates and reduce the number of cache misses.
-
-The LRU algorithm can be implemented in various ways, such as using a doubly linked list to keep track of the access order of items, or using a hash map to quickly access items in the cache. Some variations of the LRU algorithm, such as the 2Q algorithm, use multiple queues to separate frequently accessed items from infrequently accessed ones, further improving cache performance.

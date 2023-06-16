@@ -1,1 +1,0 @@
-To update [[tmux]] to the latest settings the config file, run the following: tmux source-file ~/.tmux.conf
