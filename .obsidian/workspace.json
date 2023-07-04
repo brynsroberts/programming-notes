@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73c167767ae32c02",
+        "id": "49e5670a80fee5a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ac4b6165afaec6e3",
+            "id": "eb690a0a07f025d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/Entity–attribute–value model.md",
+                "file": "99% of sed, awk, grep, find, xargs.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "f7ec04fa620525a1",
+            "id": "86f164887948ef94",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/Entity–attribute–value model.md",
+                "file": "99% of sed, awk, grep, find, xargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/Entity–attribute–value model.md",
+                "file": "99% of sed, awk, grep, find, xargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/Entity–attribute–value model.md"
+                "file": "99% of sed, awk, grep, find, xargs.md"
               }
             }
           }
@@ -154,25 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac4b6165afaec6e3",
+  "active": "eb690a0a07f025d6",
   "lastOpenFiles": [
-    "topics/TIL.md",
-    "topics/Entity–attribute–value model.md",
-    "topics/Robustness Principle.md",
-    "knowledge/design patterns/builder.md",
-    "knowledge/tmux/tmux config.md",
-    "knowledge/docker/volumes.md",
+    "Entity–attribute–value model.md",
+    "git cheat sheet.md",
+    "Robustness Principle.md",
+    "tmux cheat sheet.md",
+    "TIL.md",
+    "99% of sed, awk, grep, find, xargs.md",
+    "cheat sheets/vim cheat sheet.md",
+    "cheat sheets/find.md",
+    "cheat sheets/ripgrep.md",
+    "cheat sheets/sed.md",
+    "cheat sheets/xargs.md",
     "topics",
-    "todo.md",
     "current learning.md",
-    "knowledge/docker/remove volumes with down.md",
-    "knowledge/docker/override file.md",
-    "cheat sheets/tmux cheat sheet.md",
-    "generator function.md",
     "knowledge/web security/url parts.md",
     "knowledge/web security",
-    "cheat sheets/vim cheat sheet.md",
-    "cheat sheets/git cheat sheet.md",
+    "todo.md",
+    "generator function.md",
+    "knowledge/tmux/tmux config.md",
     "knowledge/python/Untitled.md",
     "knowledge/design patterns/factory.md",
     "knowledge/design patterns/abstract factory.md",
@@ -183,7 +184,6 @@
     "knowledge/system design/LRU.md",
     "knowledge/system design/round-robin.md",
     "knowledge/system design/stateless web tier.md",
-    "knowledge/system design/vertical scaling.md",
     "knowledge/design patterns/Untitled",
     "knowledge/system design",
     "knowledge/python",
