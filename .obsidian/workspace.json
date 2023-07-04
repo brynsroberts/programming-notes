@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99% of sed, awk, grep, find, xargs.md",
+                "file": "tmux cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99% of sed, awk, grep, find, xargs.md",
+                "file": "tmux cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99% of sed, awk, grep, find, xargs.md",
+                "file": "tmux cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99% of sed, awk, grep, find, xargs.md"
+                "file": "tmux cheat sheet.md"
               }
             }
           }
@@ -156,12 +156,12 @@
   },
   "active": "eb690a0a07f025d6",
   "lastOpenFiles": [
+    "99% of sed, awk, grep, find, xargs.md",
     "Entity–attribute–value model.md",
     "git cheat sheet.md",
     "Robustness Principle.md",
     "tmux cheat sheet.md",
     "TIL.md",
-    "99% of sed, awk, grep, find, xargs.md",
     "cheat sheets/vim cheat sheet.md",
     "cheat sheets/find.md",
     "cheat sheets/ripgrep.md",
